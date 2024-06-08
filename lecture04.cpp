@@ -1,3 +1,4 @@
+//c++ program for declaring variables and perfforming differnt operations.
 #include<iostream>
 using namepsace std;
 int main()
